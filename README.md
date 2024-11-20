@@ -1,10 +1,12 @@
 # Analysis of Economic Impact of the 2014 Russian Invasion of Ukraine
 
-## Co-Authors
+## Co-Authors*
 
 - Miray Ozcan
 - Viktor Tsvil
 - Yashvardhan Sharma
+
+*_All authors contributed equally to this project._
 
 ## Project Summary
 
@@ -31,11 +33,3 @@ By excluding five donor countries that might introduce bias into the estimates, 
 3. **Extension 3: Predictor balance improvement**
 
 Initially, the project aims to manually adjust predictor weights and introduce special predictors to improve balance. However, after implementing the improved donor pool criteria in Extension 2, it is found that such modifications are unnecessary.
-
-## Conclusion
-
-This project extends the analysis conducted by Bluszcz and Valente (2020) on the economic impact of the 2014 Russian invasion of Ukraine, aiming to provide more robust conclusions. By extending the post-treatment period to 2021, refining the donor pool criteria, and assessing predictor balance, the project enhances our understanding of the economic consequences of hybrid wars.
-
-The findings indicate that the economic impact of the invasion on Ukraine's GDP per capita (GDPpc) is more significant than previously estimated. The extended analysis reveals a higher average treatment effect, suggesting a larger negative impact on Ukraine's GDPpc compared to the synthetic control unit. The adjustments made to the donor pool and predictor weights contribute to more accurate estimations and reinforce the validity of the results.
-
-These extensions build upon the original research and provide valuable insights into the long-term economic effects of the 2014 Russian invasion of Ukraine. The findings contribute to the existing literature on hybrid wars and emphasize the importance of comprehensive analysis in understanding the economic impacts of geopolitical conflicts.
